@@ -6,7 +6,7 @@ Accompanying data can be accessed from Pangaea at the native 30 m resolution at 
 
 Data has been pre-processed to 4 km tiles (as used in the manuscript), along with the corresponding meteorological data, in the folders that end with dat_4km.
 
-The files map_figurespy and nomap_figures.py produce the principal figures for the manuscript. The subfolder model contains the code to train the CWC model (described in the manuscript SI), and requires accompanying environmental data to apply.
+The files map_figures.py and nomap_figures.py produce the principal figures for the manuscript. The subfolder model contains the code to train the CWC model (described in the manuscript SI), and requires accompanying environmental data to apply.
 
 Please get in touch with questions or concerns.
 
