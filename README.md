@@ -10,7 +10,7 @@ Use of data or code should cite the above manuscript.  We also recommend the fol
 
 P.G. Brodrick and G.P. Asner. Remotely sensed predictors of conifer tree mortality duringsevere drought.Environmental Research Letters, 12(11), 2017. doi: 10.1088/1748-9326/aa8f55.
 
-T. Paz-Kagan, P.G. Brodrick, N.R. Vaughn, A.J. Das, N.L. Stephenson, K.R. Nydick, and G.P. Asner. What mediates tree mortality during drought in the southern Sierra Nevada?Ecological Applications, 2017. doi: 10.1002/eap.1620.
+T. Paz-Kagan, P.G. Brodrick, N.R. Vaughn, A.J. Das, N.L. Stephenson, K.R. Nydick, and G.P. Asner. What mediates tree mortality during drought in the southern Sierra Nevada? Ecological Applications, 2017. doi: 10.1002/eap.1620.
 
 G.P. Asner, P.G. Brodrick, C.B. Anderson, N.R. Vaughn, D.E. Knapp, and R.E. Martin. Progressive forest canopy water loss during the 2012–2015 California drought. Proceedings ofthe National Academy of Sciences, 113(2):E249–E255, 2016. doi: 10.1073/pnas.1523397113.
 
