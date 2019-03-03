@@ -2,7 +2,7 @@
 
 This is a code repository corresponding to the manuscipt
 
-P.G. Brodrick, L.D.L. Anderegg, and G.P. Asner. Forest drought resistance at largegeographic scales. Geophysical Research Letters, 2019.
+P.G. Brodrick, L.D.L. Anderegg, and G.P. Asner. [Forest drought resistance at largegeographic scales](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018GL081108). Geophysical Research Letters, 2019. doi: 10.1029/2018GL081108.
 
 Accompanying data can be accessed from Pangaea at the native 30 m resolution at https://doi.pangaea.de/10.1594/PANGAEA.897276 .
 
